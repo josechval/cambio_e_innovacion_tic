@@ -9,7 +9,7 @@ Este repositorio contiene las versiones más actualizadas tanto de las lecturas 
 
 Tanto las presentaciones como los documentos extendidos de las lecturas están en formato HTML.
 
-### Presentaciones.
+### Presentaciones y lecturas.
 
 * Las presentaciones de la asignatura utilizan el framework [Reveal.js](https://revealjs.com) y están localizadas en el directorio [presentaciones/](presentaciones/).
 * Las lecturas completas de la asignatura están localizadas en el directorio [lecturas/](lecturas/).
