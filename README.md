@@ -3,6 +3,8 @@
 Lecturas de la asignatura: "Dirigiendo el cambio y la innovación en las TIC", de la 
 Maestría en "Gestión de Innovación de las Tecnologías de Información y Comunicación", de INFOTEC (Mayo 2019).
 
+**Tome en cuenta de que estos contenidos estarán completos a finales de julio de 2019**.
+
 ## Contenido.
 
 Este repositorio contiene las versiones más actualizadas tanto de las lecturas como los recursos utilizados en la asignatura. 
