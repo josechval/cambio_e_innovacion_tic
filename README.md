@@ -7,19 +7,19 @@ Maestría en "Gestión de Innovación de las Tecnologías de Información y Comu
 
 Este repositorio contiene las versiones más actualizadas tanto de las lecturas como los recursos utilizados en la asignatura. 
 
-### Presentaciones y lecturas.
+Tanto las presentaciones como los documentos extendidos de las lecturas están en formato HTML.
 
-Los documentos resultantes están en formato HTML y correpsonden a:
+### Presentaciones.
 
-* Presentaciones de la asignatura con el framework [Reveal.js](https://revealjs.com), las cuales están localizadas en el directorio [presentaciones/](presentaciones/).
-* Lecturas completas de la asignatura localizadas en el directorio [lecturas/](lecturas/).
+* Las presentaciones de la asignatura utilizan el framework [Reveal.js](https://revealjs.com) y están localizadas en el directorio [presentaciones/](presentaciones/).
+* Las lecturas completas de la asignatura están localizadas en el directorio [lecturas/](lecturas/).
 
 ### Código fuente de los documentos.
 
 Las fuentes de las lecturas son notebooks de [Jupyter](https://jupyter.org) y están localizadas.
 
-* Las fuentes de las presentaciones están localizadas en el directorio [presentaciones/fuentes/](presentaciones/fuentes/).
-* Las fuentes de las lecturas están localizadas en el directorio [lecturas/fuentes/](lecturas/fuentes/).
+* [presentaciones/fuentes/](presentaciones/fuentes/).
+* [lecturas/fuentes/](lecturas/fuentes/).
 
 ## Descarga del repositorio.
 
