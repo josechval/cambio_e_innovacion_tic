@@ -13,15 +13,14 @@ Tanto las presentaciones como los documentos extendidos de las lecturas están e
 
 ### Presentaciones y lecturas.
 
-* Las presentaciones de la asignatura utilizan el framework [Reveal.js](https://revealjs.com) y están localizadas en el directorio [presentaciones/](presentaciones/).
-* Las lecturas completas de la asignatura están localizadas en el directorio [lecturas/](lecturas/).
+* Las presentaciones de la asignatura utilizan el framework [Reveal.js](https://revealjs.com) y están localizadas en: 
 
-### Código fuente de los documentos.
+https://github.com/josechval/cambio_e_innovacion_tic/tree/master/presentaciones
 
-Las fuentes de las lecturas son notebooks de [Jupyter](https://jupyter.org) y están localizadas.
+* Las lecturas completas de la asignatura están localizadas en:
 
-* [presentaciones/fuentes/](presentaciones/fuentes/).
-* [lecturas/fuentes/](lecturas/fuentes/).
+https://github.com/josechval/cambio_e_innovacion_tic/tree/master/lecturas
+
 
 ## Descarga del repositorio.
 
